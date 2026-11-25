@@ -46,6 +46,7 @@ need the full image data, with notebook 2 run once for every wound dataset.
 ## Example data
 
 One wound dataset, **ctrl_0820** (control), is included in `data/wound/` (65 frames per channel, about 130 MB).
+(!! data is available upon request)
 Notebooks 1 and 2 are set up for it and run as they are, in this order:
 
 ```
